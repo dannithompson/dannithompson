@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Danni, a seabird ecologist working on my PhD at the University of Aberdeen investigating the drivers of individual specialisation in foraging behaviour of Falkland Island shags. 
 <!--
 **dannithompson/dannithompson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
